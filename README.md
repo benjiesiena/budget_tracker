@@ -656,7 +656,7 @@ Budget Tracker uses several open-source packages. Their licenses are included in
 
 - **Repository**: https://github.com/benjiesiena/budget_tracker
 - **Issues**: https://github.com/benjiesiena/budget_tracker/issues
-- **Documentation**: [PRD_AND_TECHNICAL_SPECIFICATION.md](../PRD_AND_TECHNICAL_SPECIFICATION.md)
+- **Documentation**: [PRD_AND_TECHNICAL_SPECIFICATION.md](PRD_AND_TECHNICAL_SPECIFICATION.md)
 
 ---
 
